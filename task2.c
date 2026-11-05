@@ -21,3 +21,4 @@ int main(){
   wprintf(L"Одинаковых соседних пар: %d\n", count);
   return 0; 
 }
+//Вариант 27

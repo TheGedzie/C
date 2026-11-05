@@ -14,3 +14,4 @@ int main(){
   printf("a || e были введены: %d раз", count); 
   return 0; 
 }
+//Вариант 6
